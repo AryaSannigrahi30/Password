@@ -30,7 +30,7 @@ Password-Generator/
 
 Make sure Python is installed on your computer. Clone the repository using the following command:
 
-git clone https://github.com/your-username/Password.git
+git clone https://github.com/AryaSannigrahi30/Password.git
 
 Open the project folder:
 
